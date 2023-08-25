@@ -3,7 +3,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
-
+/
+saya coba sebisanya karna kendala device cuma ada hp mau coba ke warnet lagi ga sempet jadi sayabelom tau ini jalan atu tidak :)
+*/
 public class SpotifyAPIExample {
 
     private static final String CLIENT_ID = "your_client_id";
