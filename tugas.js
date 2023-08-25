@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 /
-saya coba sebisanya karna kendala device cuma ada hp mau coba ke warnet lagi ga sempet jadi sayabelom tau ini jalan atu tidak :)
+saya coba sebisanya karna kendala device cuma ada hp mau coba ke warnet lagi ga sempet jadi saya belom tau ini jalan atu tidak :)
 */
 public class SpotifyAPIExample {
 
